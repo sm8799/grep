@@ -1,0 +1,19 @@
+My mini-project is grep and what all I required as Help to make mini-project happen is as follows:
+
+	1.ABHIJIT SIR - Assistant Prof. COEP,Pune
+	2.Tushar Bhosale - SY COMP.(111703009)
+	3.www.GeeksforGeeks.com - official site for programmers
+		_______________________________________________________________
+			HELP			|	Source			
+						|											
+		1.Getting the name of the curre-| - ABHIJIT SIR. 
+		nt directory.			|
+						|
+		2.Finding the path of the files	| - Tushar.
+		for '-r' option 		|
+						|
+		3.learning GETOPT() functioning | - www.GeeksforGeeks.com
+		________________________________________________________________				
+	
+	
+	
