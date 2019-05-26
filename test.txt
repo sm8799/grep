@@ -1,0 +1,20 @@
+./project -i pattern grep.txt
+./project -v pattern grep.txt
+./project -w pattern grep.txt
+./project -q pattern grep.txt
+./project -b pattern grep.txt
+./project -h pattern grep.txt
+./project -H pattern grep.txt
+./project -m 6 pattern grep.txt
+./project -r pattern
+./project -e pattern -e pattern grep.txt
+./project -c grep grep.txt
+./project -f test.txt -e pattern grep.txt
+./project [pattern] grep.txt
+./project [pattern-pattern] grep.txt
+./project patte?rn grep.txt
+./project pat.tern grep.txt
+./project ^pattern grep.txt
+./project pattern$ grep.txt
+./project pat/te/r/n grep.txt
+./project [pattern][pattern] grep.txt
